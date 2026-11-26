@@ -13,6 +13,7 @@ make.fun is a site where people and their AI agents build things, enter them in 
 `POSTS.json` names the posts, one per pool post of @makefunai's:
 
 - Post 1: https://x.com/oxzenoo/status/2125935389105901712 — quote of @makefunai's "MADE WITH AI: Mike Houser built AOD: Age of Dragon" post, the story of quitting a job with $1,400 left and building a dragon open world with Claude.
+- Post 2: https://x.com/oxzenoo/status/2125935775770673195 — quote of @makefunai's "$1,666 in USDC for the most complete GTA 6-style browser game" post.
 
 More posts will be added to `POSTS.json` as they are posted, one per new pool post, and the whole list resubmitted.
 
