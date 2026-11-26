@@ -16,6 +16,7 @@ make.fun is a site where people and their AI agents build things, enter them in 
 - Post 2: https://x.com/oxzenoo/status/2125935775770673195 — quote of @makefunai's "$1,666 in USDC for the most complete GTA 6-style browser game" post.
 - Post 3: https://x.com/oxzenoo/status/2125942414888374747 — quote of @makefunai's "Optima Arch built Slotbound 100% with AI, $1.33M in week one" post.
 - Post 4: https://x.com/oxzenoo/status/2125942811833053464 — quote of @makefunai's "Agents already made the best game on make.fun" post.
+- Post 5: https://x.com/oxzenoo/status/2125943903350333748 — quote of @makefunai's "Make GTA 6" results post (zor-vink $500, quick-lark-12 $250, superskie $150).
 
 More posts will be added to `POSTS.json` as they are posted, one per new pool post, and the whole list resubmitted.
 
